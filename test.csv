@@ -1,0 +1,235 @@
+name,level,type,loc
+cirq\cirq\circuits\circuit.py,1,Annotation Variable,903
+cirq\cirq\circuits\circuit.py,1,Annotation Variable,903
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,216
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,216
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,361
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,361
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,531
+cirq\cirq\google\xmon_gates.py,1,Annotation Variable,531
+cirq\cirq\ops\controlled_gate.py,1,Annotation Variable,92
+cirq\cirq\ops\controlled_gate.py,1,Annotation Variable,92
+cirq\cirq\ops\eigen_gate.py,1,Annotation Variable,183
+cirq\cirq\ops\eigen_gate.py,1,Annotation Variable,183
+cirq\cirq\ops\gate_operation.py,1,Annotation Variable,145
+cirq\cirq\ops\gate_operation.py,1,Annotation Variable,145
+cirq\cirq\protocols\inverse_test.py,1,Annotation Variable,25
+cirq\cirq\protocols\inverse_test.py,1,Annotation Variable,25
+cirq\cirq\protocols\unitary.py,1,Annotation Variable,34
+cirq\cirq\protocols\unitary.py,1,Annotation Variable,34
+cirq\cirq\protocols\unitary_test.py,1,Annotation Variable,29
+cirq\cirq\protocols\unitary_test.py,1,Annotation Variable,29
+cirq\setup.py,3,Module Error,16
+cirq\cirq\linalg\transformations.py,3,Module Error,19
+cirq\cirq\linalg\tolerance.py,3,Module Error,17
+cirq\cirq\protocols\unitary.py,3,Module Error,17
+cirq\cirq\protocols\unitary.py,2,syntax,34
+cirq\cirq\linalg\predicates.py,3,Module Error,17
+cirq\cirq\linalg\combinators.py,3,Module Error,20
+cirq\docs\snippets_test.py,3,Module Error,22
+cirq\cirq\linalg\diagonalize.py,3,Module Error,19
+cirq\cirq\linalg\decompositions.py,3,Module Error,23
+cirq\cirq\value\angle.py,3,Module Error,17
+cirq\cirq\testing\equals_tester_test.py,3,Module Error,16
+cirq\cirq\linalg\predicates_test.py,3,Module Error,16
+cirq\cirq\google\sim\mem_manager.py,3,Module Error,21
+cirq\dev_tools\shell_tools_test.py,3,Module Error,19
+cirq\cirq\testing\lin_alg_utils.py,3,Module Error,19
+cirq\cirq\study\trial_result.py,3,Module Error,20
+cirq\cirq\study\trial_result.py,1,Annotation Variable,164
+cirq\cirq\study\trial_result.py,1,Annotation Variable,164
+cirq\cirq\study\trial_result.py,1,Annotation Variable,164
+cirq\cirq\study\sweeps.py,2,syntax,32
+cirq\cirq\protocols\inverse.py,1,Annotation Variable,22
+cirq\cirq\protocols\inverse.py:25,1,Annotation Variable,25
+cirq\cirq\protocols\inverse.py,1,Annotation Variable,67
+cirq\cirq\protocols\inverse.py,1,Annotation Variable,73
+cirq\cirq\ops\raw_types.py,2,syntax,103
+cirq\cirq\google\sim\xmon_stepper.py,3,Module Error,27
+cirq\cirq\devices\device.py,2,syntax,28
+cirq\cirq\study\visualize.py,3,Module Error,17
+cirq\cirq\study\visualize.py,3,Module Error,40
+cirq\cirq\study\visualize.py,3,Module Error,40
+cirq\cirq\ops\gate_features.py,2,syntax,31
+cirq\cirq\ops\gate_features.py,2,syntax,40
+cirq\cirq\ops\gate_features.py,2,syntax,53
+cirq\cirq\ops\gate_features.py,2,syntax,99
+cirq\cirq\ops\gate_features.py,2,syntax,107
+cirq\cirq\ops\gate_features.py,2,syntax,205
+cirq\cirq\ops\gate_features.py,2,syntax,226
+cirq\cirq\ops\gate_features.py,2,syntax,247
+cirq\cirq\ops\gate_features.py,2,syntax,267
+cirq\cirq\ops\gate_features.py,2,syntax,288
+cirq\cirq\ops\gate_features.py,2,syntax,298
+cirq\cirq\ops\gate_features.py,2,syntax,312
+cirq\cirq\ops\gate_features.py,2,syntax,376
+cirq\cirq\ops\gate_features.py,2,syntax,387
+cirq\cirq\ops\reversible_composite_gate.py,2,syntax,27
+cirq\cirq\ops\matrix_gates.py,3,Module Error,19
+cirq\cirq\ops\gate_operation.py,3,Module Error,21
+cirq\cirq\ops\gate_operation.py,2,syntax,145
+cirq\cirq\ops\eigen_gate.py,3,Module Error,17
+cirq\cirq\ops\eigen_gate.py,2,syntax,183
+cirq\cirq\ops\controlled_gate.py,3,Module Error,17
+cirq\cirq\ops\controlled_gate.py,2,syntax,92
+cirq\cirq\ops\common_gates.py,3,Module Error,18
+cirq\cirq\ops\three_qubit_gates.py,3,Module Error,19
+cirq\cirq\ops\three_qubit_gates.py,2,syntax,36
+cirq\cirq\ops\three_qubit_gates.py,2,syntax,129
+cirq\cirq\ops\clifford_gate.py,3,Module Error,18
+cirq\cirq\ops\pauli_interaction_gate.py,3,Module Error,17
+cirq\cirq\decompositions.py,3,Module Error,21
+cirq\cirq\circuits\qasm_output.py,3,Module Error,23
+cirq\cirq\google\xmon_gates.py,3,Module Error,20
+cirq\cirq\google\xmon_gates.py,2,syntax,27
+cirq\cirq\google\xmon_gates.py,2,syntax,216
+cirq\cirq\google\xmon_gates.py,2,syntax,361
+cirq\cirq\google\xmon_gates.py,2,syntax,531
+cirq\cirq\google\decompositions.py,3,Module Error,21
+cirq\cirq\circuits\circuit.py,3,Module Error,29
+cirq\cirq\circuits\circuit.py,2,syntax,29
+cirq\cirq\circuits\circuit.py,2,syntax,903
+cirq\cirq\circuits\circuit.py,2,syntax,1420
+cirq\cirq\circuits\circuit.py,2,syntax,1422
+cirq\cirq\circuits\circuit.py,1,Annotation Variable,1447
+cirq\cirq\circuits\circuit.py,2,syntax,1451
+cirq\cirq\circuits\circuit.py,2,syntax,1457
+cirq\cirq\circuits\circuit_dag.py,3,Module Error,18
+cirq\cirq\circuits\merge_single_qubit_gates.py,3,Module Error,19
+cirq\cirq\circuits\merge_interactions.py,3,Module Error,19
+cirq\cirq\testing\random_circuit.py,2,syntax,67
+cirq\cirq\testing\circuit_compare.py,3,Module Error,18
+cirq\cirq\schedules\schedule.py,3,Module Error,17
+cirq\cirq\google\merge_rotations.py,3,Module Error,19
+cirq\cirq\line\placement\place_strategy.py,2,syntax,24
+cirq\cirq\line\placement\anneal.py,3,Module Error,17
+cirq\cirq\google\programs.py,3,Module Error,16
+cirq\cirq\google\sim\xmon_simulator.py,3,Module Error,42
+cirq\cirq\google\engine\engine.py,3,Module Error,34
+cirq\examples\quantum_fourier_transform.py,3,Module Error,24
+cirq\examples\phase_estimator.py,3,Module Error,48
+cirq\examples\bell_inequality.py,3,Module Error,28
+cirq\examples\bcs_mean_field.py,3,Module Error,134
+cirq\examples\bcs_mean_field.py,3,Module Error,135
+cirq\examples\bcs_mean_field.py,3,Module Error,135
+cirq\examples\bcs_mean_field.py,3,Module Error,21
+cirq\cirq\decompositions_test.py,3,Module Error,20
+cirq\cirq\decompositions_test.py,3,Module Error,21
+cirq\cirq\value\timestamp_test.py,3,Module Error,15
+cirq\cirq\value\symbol_test.py,3,Module Error,14
+cirq\cirq\value\duration_test.py,3,Module Error,15
+cirq\cirq\value\angle_test.py,3,Module Error,15
+cirq\cirq\value\angle_test.py,3,Module Error,16
+cirq\cirq\testing\random_circuit_test.py,3,Module Error,16
+cirq\cirq\testing\lin_alg_utils_test.py,3,Module Error,15
+cirq\cirq\testing\lin_alg_utils_test.pY,3,Module Error,16
+cirq\cirq\testing\file_tester_test.py,3,Module Error,15
+cirq\cirq\testing\circuit_compare_test.py,3,Module Error,15
+cirq\cirq\study\visualize_test.py,3,Module Error,17
+cirq\cirq\study\visualize_test.py,3,Module Error,18
+cirq\cirq\study\trial_result_test.py,3,Module Error,16
+cirq\cirq\study\sweeps_test.py,3,Module Error,14
+cirq\cirq\schedules\schedulers_test.py,3,Module Error,17
+cirq\cirq\schedules\schedule_test.py,3,Module Error,15
+cirq\cirq\protocols\unitary_test.py,3,Module Error,15
+cirq\cirq\protocols\unitary_test.py,3,Module Error,16
+cirq\cirq\protocols\unitary_test.py,2,syntax,29
+cirq\cirq\protocols\inverse_test.py,3,Module Error,15
+cirq\cirq\protocols\inverse_test.py,2,syntax,25
+cirq\cirq\ops\three_qubit_gates_test.py,3,Module Error,16
+cirq\cirq\ops\three_qubit_gates_test.py,3,Module Error,17
+cirq\cirq\ops\reversible_composite_gate_test.py,3,Module Error,15
+cirq\cirq\ops\raw_types_test.py,3,Module Error,15
+cirq\cirq\ops\qubit_order_test.py,3,Module Error,15
+cirq\cirq\ops\pauli_test.py,3,Module Error,15
+cirq\cirq\ops\pauli_string_test.py,3,Module Error,16
+cirq\cirq\ops\pauli_string_test.py,3,Module Error,17
+cirq\cirq\ops\pauli_interaction_gate_test.py,3,Module Error,16
+cirq\cirq\ops\pauli_interaction_gate_test.py,3,Module Error,17
+cirq\cirq\ops\op_tree_test.py,3,Module Error,16
+cirq\cirq\ops\matrix_gates_test.py,3,Module Error,16
+cirq\cirq\ops\matrix_gates_test.py,3,Module Error,17
+cirq\cirq\ops\gate_operation_test.py,3,Module Error,14
+cirq\cirq\ops\gate_operation_test.py,3,Module Error,15
+cirq\cirq\ops\gate_features_test.py,3,Module Error,15
+cirq\cirq\ops\eigen_gate_test.py,3,Module Error,17
+cirq\cirq\ops\eigen_gate_test.py,3,Module Error,18
+cirq\cirq\ops\controlled_gate_test.py,3,Module Error,15
+cirq\cirq\ops\controlled_gate_test.py,3,Module Error,16
+cirq\cirq\ops\common_gates_test.py,3,Module Error,15
+cirq\cirq\ops\common_gates_test.py,3,Module Error,16
+cirq\cirq\ops\clifford_gate_test.py,3,Module Error,16
+cirq\cirq\line\line_qubit_test.py,3,Module Error,15
+cirq\cirq\line\placement\sequence_test.py,3,Module Error,15
+cirq\cirq\line\placement\optimization_test.py,3,Module Error,16
+cirq\cirq\line\placement\greedy_test.Py,3,Module Error,16
+cirq\cirq\line\placement\anneal_test.py,3,Module Error,17
+cirq\cirq\line\placement\anneal_test.py,3,Module Error,18
+cirq\cirq\linalg\transformations_test.py,3,Module Error,15
+cirq\cirq\linalg\diagonalize_test.py,3,Module Error,18
+cirq\cirq\linalg\diagonalize_test.py,3,Module Error,19
+cirq\cirq\linalg\decompositions_test.py,3,Module Error,17
+cirq\cirq\linalg\decompositions_test.py,3,Module Error,18
+cirq\cirq\linalg\combinators_test.py,3,Module Error,15
+cirq\cirq\google\xmon_gates_test.py,3,Module Error,15
+cirq\cirq\google\xmon_gates_test.py,3,Module Error,16
+cirq\cirq\google\xmon_device_test.py,3,Module Error,15
+cirq\cirq\google\programs_test.py,3,Module Error,14
+cirq\cirq\google\programs_test.py,3,Module Error,15
+cirq\cirq\google\params_test.py,3,Module Error,14
+cirq\cirq\google\optimize_test.py,3,Module Error,15
+cirq\cirq\google\decompositions_test.py,3,Module Error,18
+cirq\cirq\google\decompositions_test.py,3,Module Error,19
+cirq\cirq\google\convert_to_xmon_gates_test.py,3,Module Error,15
+cirq\cirq\google\sim\xmon_stepper_test.py,3,Module Error,19
+cirq\cirq\google\sim\xmon_stepper_test.py,3,Module Error,20
+cirq\cirq\google\sim\xmon_simulator_test.py,3,Module Error,23
+cirq\cirq\google\sim\xmon_simulator_test.py,3,Module Error,24
+cirq\cirq\google\sim\mem_manager_test.py,3,Module Error,20
+cirq\cirq\google\sim\mem_manager_test.py,3,Module Error,22
+cirq\cirq\google\engine\env_config_test.py,3,Module Error,16
+cirq\cirq\google\engine\env_config_test.py,3,Module Error,17
+cirq\cirq\google\engine\engine_test.py,3,Module Error,19
+cirq\cirq\google\engine\engine_test.py,3,Module Error,20
+cirq\cirq\google\engine\engine_test.py,3,Module Error,22
+cirq\cirq\extension\extensions_test.py,3,Module Error,15
+cirq\cirq\extension\cast_test.py,3,Module Error,15
+cirq\cirq\devices\grid_qubit_test.py,3,Module Error,16
+cirq\cirq\contrib\quirk\quirk_gate.py,3,Module Error,17
+cirq\cirq\contrib\qcircuit\qcircuit_diagrammable.py,2,syntax,23
+cirq\cirq\contrib\paulistring\pauli_string_raw_types.py,2,syntax,29
+cirq\cirq\contrib\paulistring\convert_to_clifford_gates.py,3,Module Error,17
+cirq\cirq\contrib\acquaintance\permutation.py,2,syntax,28
+cirq\cirq\circuits\text_diagram_drawer_test.py,3,Module Error,15
+cirq\cirq\circuits\qasm_output_test.py,3,Module Error,16
+cirq\cirq\circuits\moment_test.py,3,Module Error,15
+cirq\cirq\circuits\merge_single_qubit_gates_test.py,3,Module Error,15
+cirq\cirq\circuits\merge_interactions_test.py,3,Module Error,15
+cirq\cirq\circuits\convert_to_cz_and_single_gates_test.py,3,Module Error,15
+cirq\cirq\circuits\convert_to_cz_and_single_gates_test.py,3,Module Error,17
+cirq\cirq\circuits\circuit_test.py,3,Module Error,18
+cirq\cirq\circuits\circuit_test.py,3,Module Error,19
+cirq\cirq\circuits\circuit_dag_test.py,3,Module Error,15
+cirq\cirq\circuits\circuit_dag_test.py,3,Module Error,17
+cirq\cirq\contrib\jobs\depolarizer_channel.py,3,Module Error,19
+cirq\cirq\contrib\acquaintance\permutation_test.py,3,Module Error,18
+cirq\cirq\contrib\quirk\export_to_quirk_test.py,3,Module Error,15
+cirq\cirq\contrib\qcircuit\qcircuit_pdf.py,3,Module Error,20
+cirq\cirq\contrib\qcircuit\qcircuit_pdf.py,2,syntax,20
+cirq\cirq\contrib\paulistring\convert_to_pauli_string_phasors.py,3,Module Error,17
+cirq\cirq\contrib\acquaintance\devices.py,2,syntax,25
+cirq\cirq\contrib\acquaintance\gates_test.py,3,Module Error,19
+cirq\cirq\contrib\acquaintance\gates_test.py,3,Module Error,20
+cirq\cirq\contrib\acquaintance\devices_test.py,3,Module Error,15
+cirq\cirq\contrib\paulistring\pauli_string_optimize.py,3,Module Error,15
+cirq\cirq\contrib\acquaintance\strategy_test.py:17:1,3,Module Error,17
+cirq\cirq\contrib\acquaintance\executor.py,2,syntax,34
+cirq\cirq\contrib\acquaintance\executor_test.py,3,Module Error,18
+cirq\cirq\contrib\acquaintance\executor_test.py,3,Module Error,19
+cirq\cirq\contrib\paulistring\pauli_string_raw_types_test.py,3,Module Error,15
+cirq\cirq\contrib\paulistring\pauli_string_phasor_test.py,3,Module Error,16
+cirq\cirq\contrib\paulistring\pauli_string_phasor_test.py,3,Module Error,17
+cirq\cirq\contrib\paulistring\pauli_string_dag_test.py,3,Module Error,15
+cirq\cirq\contrib\paulistring\convert_to_pauli_string_phasors_test.py,3,Module Error,15
+cirq\cirq\contrib\paulistring\convert_to_clifford_gates_test.py,3,Module Error,15
+cirq\cirq\contrib\paulistring\convert_gate_set_test.py,3,Module Error,15
