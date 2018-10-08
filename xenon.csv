@@ -1,0 +1,128 @@
+directory ,type,loc,rank,ccscore,risk,description
+cirq\cirq\decompositions.py,Function,34,C,20,moderate - slightly complex block,single_qubit_matrix_to_pauli_rotations
+cirq\cirq\circuits\circuit_test.py,Function,536,D,30,more than moderate - more complex block,test_next_moment_operating_on
+cirq\cirq\circuits\circuit_test.py,Function,611,D,30,more than moderate - more complex block,test_prev_moment_operating_on
+cirq\cirq\circuits\circuit_test.py,Function,2002,C,20,moderate - slightly complex block,test_push_frontier_random_circuit
+cirq\cirq\circuits\circuit_test.py,Function,653,C,20,moderate - slightly complex block,test_prev_moment_operating_on_distance
+cirq\cirq\circuits\circuit_test.py,Function,578,C,20,moderate - slightly complex block,test_next_moment_operating_on_distance
+cirq\cirq\circuits\circuit_test.py,Function,778,C,20,moderate - slightly complex block,test_are_all_measurements_terminal
+cirq\cirq\circuits\circuit_test.py,Function,1704,C,20,moderate - slightly complex block,test_batch_remove
+cirq\cirq\circuits\circuit_test.py,Function,261,C,20,moderate - slightly complex block,test_multiply
+cirq\cirq\circuits\circuit_test.py,Function,710,C,20,moderate - slightly complex block,test_findall_operations
+cirq\cirq\circuits\circuit_test.py,Function,1782,C,20,moderate - slightly complex block,test_batch_insert_into
+cirq\cirq\circuits\convert_to_cz_and_single_gates.py,Function,56,C,20,moderate - slightly complex block,_convert_one
+cirq\cirq\circuits\merge_interactions.py,Function,44,C,20,moderate - slightly complex block,optimization_at
+cirq\cirq\circuits\moment_test.py,Function,73,D,30,more than moderate - more complex block,test_operates_on
+cirq\cirq\circuits\moment_test.py,Function,122,C,20,moderate - slightly complex block,test_without_operations_touching
+cirq\cirq\circuits\optimization_pass_test.py,Function,51,C,20,moderate - slightly complex block,ReplaceWithXGates
+cirq\cirq\circuits\optimization_pass_test.py,Function,58,C,20,moderate - slightly complex block,optimization_at
+cirq\cirq\circuits\qasm_output.py,Function,250,C,20,moderate - slightly complex block,_write_operations
+cirq\cirq\circuits\text_diagram_drawer.py,Function,129,C,20,moderate - slightly complex block,render
+cirq\cirq\circuits\text_diagram_drawer.py,Function,224,C,20,moderate - slightly complex block,_pad_into_multiline
+cirq\cirq\contrib\acquaintance\strategy_test.py,Function,35,C,20,moderate - slightly complex block,test_complete_acquaintance_strategy
+cirq\cirq\contrib\jobs\depolarizer_channel.py,Function,64,C,20,moderate - slightly complex block,transform_job
+cirq\cirq\contrib\paulistring\pauli_string_phasor_test.py,Function,187,C,20,moderate - slightly complex block,test_try_cast_to
+cirq\cirq\contrib\quirk\export_to_quirk.py,Function,55,C,20,moderate - slightly complex block,circuit_to_quirk_url
+cirq\cirq\devices\grid_qubit_test.py,Function,35,C,20,moderate - slightly complex block,test_xmon_qubit_ordering
+cirq\cirq\devices\grid_qubit_test.py,Function,53,C,20,moderate - slightly complex block,test_xmon_qubit_is_adjacent
+cirq\cirq\extension\cast_test.py,Function,39,C,20,moderate - slightly complex block,test_cast
+cirq\cirq\extension\extensions_test.py,Function,185,C,20,moderate - slightly complex block,test_add_cast_include_subtypes
+cirq\cirq\google\convert_to_xmon_gates.py,Function,59,C,20,moderate - slightly complex block,_convert_one
+cirq\cirq\google\eject_full_w.py,Function,62,C,20,moderate - slightly complex block,optimize_circuit
+cirq\cirq\google\eject_z.py,Function,51,C,20,moderate - slightly complex block,optimize_circuit
+cirq\cirq\google\xmon_device_test.py,Function,257,C,20,moderate - slightly complex block,test_row_and_col
+cirq\cirq\google\xmon_device_test.py,Function,239,C,20,moderate - slightly complex block,test_at
+cirq\cirq\google\xmon_gates.py,Function,49,C,20,moderate - slightly complex block,from_proto_dict
+cirq\cirq\google\engine\engine_test.py,Function,479,C,20,moderate - slightly complex block,test_implied_job_config
+cirq\cirq\google\engine\engine_test.py,Function,235,C,20,moderate - slightly complex block,test_run_sweep_params
+cirq\cirq\google\engine\engine_test.py,Function,280,C,20,moderate - slightly complex block,test_run_sweep_sweeps
+cirq\cirq\google\engine\engine_test.py,Function,440,C,20,moderate - slightly complex block,test_implied_job_config_gcs_prefix
+cirq\cirq\google\engine\env_config_test.py,Function,23,C,20,moderate - slightly complex block,test_engine_from_environment
+cirq\cirq\google\sim\xmon_simulator.py,Function,478,C,20,moderate - slightly complex block,_simulator_iterator
+cirq\cirq\google\sim\xmon_stepper_test.py,Function,667,C,20,moderate - slightly complex block,random_moments
+cirq\cirq\linalg\predicates_test.py,Function,194,D,30,more than moderate - more complex block,test_is_special_orthogonal
+cirq\cirq\linalg\predicates_test.py,Function,105,D,30,more than moderate - more complex block,test_is_unitary
+cirq\cirq\linalg\predicates_test.py,Function,149,D,30,more than moderate - more complex block,test_is_orthogonal
+cirq\cirq\linalg\predicates_test.py,Function,59,D,30,more than moderate - more complex block,test_is_hermitian
+cirq\cirq\linalg\predicates_test.py,Function,247,D,30,more than moderate - more complex block,test_is_special_unitary
+cirq\cirq\linalg\predicates_test.py,Function,22,C,20,moderate - slightly complex block,test_is_diagonal
+cirq\cirq\linalg\predicates_test.py,Function,297,C,20,moderate - slightly complex block,test_commutes
+cirq\cirq\linalg\tolerance_test.py,Function,35,E,40,"high - complex block, alarming",test_all_close
+cirq\cirq\linalg\tolerance_test.py,Function,89,C,20,moderate - slightly complex block,test_all_zero_mod
+cirq\cirq\line\line_qubit_test.py,Function,68,C,20,moderate - slightly complex block,test_range
+cirq\cirq\line\placement\anneal.py,Function,154,C,20,moderate - slightly complex block,_force_edge_active
+cirq\cirq\line\placement\anneal_test.py,Function,255,C,20,moderate - slightly complex block,test_force_edge_active_creates_valid_solution_single_sequence
+cirq\cirq\line\placement\anneal_test.py,Function,359,C,20,moderate - slightly complex block,_verify_valid_state
+cirq\cirq\line\placement\anneal_test.py,Function,399,C,20,moderate - slightly complex block,test_index_2d
+cirq\cirq\line\placement\greedy_test.py,Function,297,C,20,moderate - slightly complex block,test_minimal_sequence_search_traverses_grid
+cirq\cirq\line\placement\sequence_test.py,Function,24,C,20,moderate - slightly complex block,test_best_of_gets_longest_needs_minimum
+cirq\cirq\ops\clifford_gate.py,Function,164,C,20,moderate - slightly complex block,_validate_map_input
+cirq\cirq\ops\clifford_gate.py,Function,277,C,20,moderate - slightly complex block,decompose_rotation
+cirq\cirq\ops\clifford_gate_test.py,Function,256,C,20,moderate - slightly complex block,test_init_invalid
+cirq\cirq\ops\common_gates_test.py,Function,346,C,20,moderate - slightly complex block,test_xyz_repr
+cirq\cirq\ops\common_gates_test.py,Function,174,C,20,moderate - slightly complex block,test_runtime_types_of_rot_gates
+cirq\cirq\ops\controlled_gate_test.py,Function,102,D,30,more than moderate - more complex block,test_try_cast_to
+cirq\cirq\ops\pauli_string_test.py,Function,231,C,20,moderate - slightly complex block,test_commutes_with
+cirq\cirq\ops\pauli_string_test.py,Function,51,C,20,moderate - slightly complex block,test_equal_up_to_sign
+cirq\cirq\ops\pauli_test.py,Function,81,C,20,moderate - slightly complex block,test_addition
+cirq\cirq\ops\pauli_test.py,Function,100,C,20,moderate - slightly complex block,test_subtraction
+cirq\cirq\protocols\unitary_test.py,Function,21,C,20,moderate - slightly complex block,test_unitary
+cirq\cirq\schedules\schedule_test.py,Function,75,C,20,moderate - slightly complex block,test_query_point_operation_exclusive
+cirq\cirq\schedules\schedule_test.py,Function,45,C,20,moderate - slightly complex block,test_query_point_operation_inclusive
+cirq\cirq\schedules\schedule_test.py,Function,107,C,20,moderate - slightly complex block,test_query_overlapping_operations_inclusive
+cirq\cirq\schedules\schedule_test.py,Function,135,C,20,moderate - slightly complex block,test_query_overlapping_operations_inclusive
+cirq\cirq\schedules\schedule_test.py,Function,156,C,20,moderate - slightly complex block,test_slice_operations
+cirq\cirq\testing\circuit_compare.py,Function,27,C,20,moderate - slightly complex block,_cancel_qubit_phase
+cirq\cirq\testing\circuit_compare.py,Function,95,C,20,moderate - slightly complex block,_canonicalize_up_to_terminal_measurement_phase
+cirq\cirq\testing\equals_tester.py,Function,45,C,20,moderate - slightly complex block,add_equality_group
+cirq\cirq\testing\random_circuit.py,Function,39,C,20,moderate - slightly complex block,random_circuit
+cirq\cirq\value\angle_test.py,Function,32,C,20,moderate - slightly complex block,test_chosen_angle_to_half_turns
+cirq\cirq\value\angle_test.py,Function,61,C,20,moderate - slightly complex block,test_chosen_angle_to_canonical_half_turns
+cirq\cirq\value\duration_test.py,Function,47,C,20,moderate - slightly complex block,test_cmp
+cirq\cirq\value\timestamp_test.py,Function,43,C,20,moderate - slightly complex block,test_cmp
+cirq\dev_tools\auto_merge.py,Function,260,C,20,moderate - slightly complex block,wait_for_status
+cirq\dev_tools\bash_scripts_test.py,Function,127,E,40,"high - complex block, alarming",test_pytest_changed_files_branch_selection
+cirq\dev_tools\bash_scripts_test.py,Function,221,D,30,more than moderate - more complex block,test_pytest_and_incremental_coverage_branch_selection
+cirq\dev_tools\bash_scripts_test.py,Function,71,C,20,moderate - slightly complex block,test_pytest_changed_files_file_selection
+cirq\dev_tools\incremental_coverage.py,Function,111,C,20,moderate - slightly complex block,get_incremental_uncovered_lines
+cirq\dev_tools\incremental_coverage_test.py,Function,18,C,20,moderate - slightly complex block,test_determine_ignored_lines
+cirq\dev_tools\run_checks.py,Function,59,C,20,moderate - slightly complex block,parse_args
+cirq\dev_tools\run_checks.py,Function,83,C,20,moderate - slightly complex block,main
+cirq\cirq\circuits\circuit_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\circuits\merge_interactions.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\circuits\moment_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\acquaintance\strategy_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\jobs\depolarizer_channel.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\paulistring\clifford_optimize.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\paulistring\recombine.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\qcircuit\qcircuit_pdf.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\contrib\quirk\export_to_quirk.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\devices\grid_qubit_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\google\eject_z.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\google\optimize_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\google\engine\engine_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\google\engine\env_config_test.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\linalg\combinators_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\linalg\diagonalize.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\linalg\predicates_test.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\linalg\tolerance_test.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\line\placement\sequence_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\ops\op_tree_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\ops\pauli_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\ops\qubit_order_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\protocols\inverse.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\protocols\unitary_test.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\schedules\schedule_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\study\visualize.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\testing\circuit_compare.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\testing\file_tester_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\testing\random_circuit.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\testing\random_circuit_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\value\angle_test.py,module,,C,20,moderate - slightly complex block,
+cirq\cirq\value\duration_test.py,module,,B,10,low - well structured and stable block,
+cirq\cirq\value\timestamp_test.py,module,,B,10,low - well structured and stable block,
+cirq\dev_tools\bash_scripts_test.py,module,,C,20,moderate - slightly complex block,
+cirq\dev_tools\incremental_coverage.py,module,,B,10,low - well structured and stable block,
+cirq\dev_tools\incremental_coverage_test.py,module,,C,20,moderate - slightly complex block,
+cirq\dev_tools\run_checks.py,module,,B,10,low - well structured and stable block,
+cirq\dev_tools\run_simple_checks.py,module,,B,10,low - well structured and stable block,
