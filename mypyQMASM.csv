@@ -1,0 +1,26 @@
+name,level,type,loc,Description
+__init__.py,3,Module Error,1,cmdline
+__init__.py,3,Module Error,2,dwave
+__init__.py,3,Module Error,3,globals
+__init__.py,3,Module Error,4,output
+__init__.py,3,Module Error,5,parse
+__init__.py,3,Module Error,6,problem
+__init__.py,3,Module Error,7,utils
+dwave.py,3,Module Error,7,dwave_sapi2.core
+dwave.py,3,Module Error,8,dwave_sapi2.embedding
+dwave.py,3,Module Error,9,dwave_sapi2.local
+dwave.py,3,Module Error,10,dwave_sapi2.remote
+dwave.py,3,Module Error,11,dwave_sapi2.util
+output.py,3,Module Error,9,dwave_sapi2.util
+problem.py,3,Module Error,7,dwave_sapi2.util
+setup.py,3,Module Error,10,setuptools.command.install
+globals.py,3,Module Error,10,progname
+globals.py,3,Module Error,13,sym2num
+globals.py,3,Module Error,16,next_sym_num
+globals.py,3,Module Error,19,program
+globals.py,3,Module Error,22,chain_strength
+globals.py,3,Module Error,23,pin_strength
+parse.py,1,Annotation Variable,145,macros = {}
+parse.py,1,Annotation Variable,146,"current_macro = (None, [])"
+parse.py,1,Annotation Variable,147,aliases = {}
+parse.py,3,Module Error,148,program
