@@ -1,0 +1,25 @@
+directory ,type,loc,rank,ccscore,risk,description
+qmasm\output.py,Function,147,C,20,moderate - slightly complex block,output_minizinc
+qmasm\output.py,Function,97,C,20,moderate - slightly complex block,output_qbsolv
+qmasm\output.py,Function,22,C,20,moderate - slightly complex block,coupler_number
+qmasm\output.py,Function,41,C,20,moderate - slightly complex block,output_qubist
+build\lib\qmasm\output.py,Function,147,C,20,moderate - slightly complex block,output_minizinc
+build\lib\qmasm\output.py,Function,97,C,20,moderate - slightly complex block,output_qbsolv
+build\lib\qmasm\output.py,Function,22,C,20,moderate - slightly complex block,coupler_number
+build\lib\qmasm\output.py,Function,41,C,20,moderate - slightly complex block,output_qubist
+qmasm\parse.py,Function,149,E,40,"high - complex block, alarming",parse_file
+qmasm\parse.py,Function,311,C,20,moderate - slightly complex block,parse_lhs
+build\lib\qmasm\problem.py,Function,117,D,30,more than moderate - more complex block,convert_chains_to_aliases
+build\lib\qmasm\parse.py,Function,149,E,40,"high - complex block, alarming",parse_file
+build\lib\qmasm\parse.py,Function,311,C,20,moderate - slightly complex block,parse_lhs
+qmasm\problem.py,Function,117,D,30,more than moderate - more complex block,convert_chains_to_aliases
+build\lib\qmasm\dwave.py,Function,49,D,30,more than moderate - more complex block,find_dwave_embedding
+qmasm\dwave.py,Function,49,D,30,more than moderate - more complex block,find_dwave_embedding
+qmasm\output.py,Module,NAN,B,10,low - well structured and stable block,NAN
+build\lib\qmasm\output.py,Module,NAN,B,10,low - well structured and stable block,NAN
+build\lib\qmasm\problem.py,Module,NAN,B,10,low - well structured and stable block,NAN
+qmasm\problem.py,Module,NAN,B,10,low - well structured and stable block,NAN
+build\lib\qmasm\dwave.py,Module,NAN,B,10,low - well structured and stable block,NAN
+qmasm\dwave.py,Module,NAN,B,10,low - well structured and stable block,NAN
+qmasm.py,invalid syntax,343,B,10,low - well structured and stable block,"print ""Solution #%d (energy = %.2f, tally = %s):\n"""
+build\scripts-3.5\qmasm.py,invalid syntax,344,B,10,low - well structured and stable block,"print ""Solution #%d (energy = %.2f, tally = %s):\n"""
