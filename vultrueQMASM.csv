@@ -1,0 +1,16 @@
+name,level,type,loc,description
+cmdline.py,3,Unused function,10,parse_command_line
+dwave.py,3,Unused function,19,connect_to_dwave
+dwave.py,3,Unused function,137,embed_problem_on_dwave
+dwave.py,3,Unused function,171,update_strengths_from_chains
+dwave.py,3,Unused function,180,scale_weights_strengths
+dwave.py,3,Unused function,200,solution_is_intact
+dwave.py,3,Unused function,215,submit_dwave_problem
+output.py,3,Unused function,113,write_output
+parse.py,3,Unused function,259,parse_files
+problem.py,3,Unused class,22,Problem
+problem.py,3,Unused function,32,assign_chain_strength
+problem.py,3,Unused function,56,assign_pin_strength
+problem.py,3,Unused function,69,pin_qubits
+problem.py,3,Unused function,113,convert_chains_to_aliases
+problem.py,3,Unused function,199,find_disconnected_variables
